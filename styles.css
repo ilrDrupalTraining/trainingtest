@@ -6,3 +6,7 @@ body {
 p {
   display: none;
 }
+
+h1 {
+  color: orange;
+}
