@@ -2,4 +2,4 @@ trainingtest
 ============
 ## This is a training. We are trying out git.
 
-# I'm adding some new information.
+# Our team is adding some new information.
